@@ -1,0 +1,35 @@
+
+; <<>> DiG 9.20.15-2-Debian <<>> MX cbn.com.bo
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 48374
+;; flags: qr rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 13
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; MBZ: 0x0005, udp: 512
+;; QUESTION SECTION:
+;cbn.com.bo.			IN	MX
+
+;; ANSWER SECTION:
+cbn.com.bo.		5	IN	MX	10 eu-smtp-inbound-1.mimecast.com.
+cbn.com.bo.		5	IN	MX	10 eu-smtp-inbound-2.mimecast.com.
+
+;; ADDITIONAL SECTION:
+eu-smtp-inbound-1.mimecast.com.	5 IN	A	91.220.42.211
+eu-smtp-inbound-1.mimecast.com.	5 IN	A	195.130.217.211
+eu-smtp-inbound-1.mimecast.com.	5 IN	A	91.220.42.201
+eu-smtp-inbound-1.mimecast.com.	5 IN	A	91.220.42.241
+eu-smtp-inbound-1.mimecast.com.	5 IN	A	195.130.217.201
+eu-smtp-inbound-1.mimecast.com.	5 IN	A	195.130.217.241
+eu-smtp-inbound-2.mimecast.com.	5 IN	A	91.220.42.211
+eu-smtp-inbound-2.mimecast.com.	5 IN	A	195.130.217.211
+eu-smtp-inbound-2.mimecast.com.	5 IN	A	195.130.217.241
+eu-smtp-inbound-2.mimecast.com.	5 IN	A	91.220.42.241
+eu-smtp-inbound-2.mimecast.com.	5 IN	A	195.130.217.201
+eu-smtp-inbound-2.mimecast.com.	5 IN	A	91.220.42.201
+
+;; Query time: 83 msec
+;; SERVER: 192.168.243.2#53(192.168.243.2) (UDP)
+;; WHEN: Fri Jun 05 00:25:55 EDT 2026
+;; MSG SIZE  rcvd: 311
+

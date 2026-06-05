@@ -1,0 +1,14 @@
+www.cbn.com.bo -> waredirect-prd.azurewebsites.net.
+mail.cbn.com.bo -> 
+meet.cbn.com.bo -> 
+sat.cbn.com.bo -> 58sns28.x.incapdns.net.
+sip.cbn.com.bo -> 212.41.133.107
+webqplus.cbn.com.bo -> sxika8v.impervadns.net.
+illapu.cbn.com.bo -> 
+mutun.cbn.com.bo -> 200.87.194.130
+lyncdiscover.cbn.com.bo -> 212.41.133.164
+cbnlpz.cbn.com.bo -> 167.252.151.120
+cbnscz.cbn.com.bo -> 167.252.151.121
+cbncbba.cbn.com.bo -> 167.252.151.122
+cbnoruro.cbn.com.bo -> 167.252.151.123
+cbnpepsi.cbn.com.bo -> 167.252.151.126

@@ -1,0 +1,10 @@
+NetName:        LACNIC-ERX-167-252-0-0
+OrgName:        Latin American and Caribbean IP address Regional Registry
+inetnum:     167.252.0.0/16
+aut-num:     N/A
+owner:       Cerveceria Y Malteria Quilmes
+ownerid:     AR-CYMQ-LACNIC
+country:     AR
+owner-c:     CQT
+country:     AR
+% Types of queries are: POCs, ownerid, CIDR blocks, IP

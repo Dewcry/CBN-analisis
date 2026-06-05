@@ -1,0 +1,20 @@
+
+; <<>> DiG 9.20.15-2-Debian <<>> TXT _dkim._domainkey.cbn.com.bo
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 32051
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; MBZ: 0x0005, udp: 512
+;; QUESTION SECTION:
+;_dkim._domainkey.cbn.com.bo.	IN	TXT
+
+;; AUTHORITY SECTION:
+cbn.com.bo.		5	IN	SOA	ns1-07.azure-dns.com. root.ns1.quilmes.com.ar. 2019121402 10800 300 2419200 7200
+
+;; Query time: 87 msec
+;; SERVER: 192.168.243.2#53(192.168.243.2) (UDP)
+;; WHEN: Fri Jun 05 01:01:59 EDT 2026
+;; MSG SIZE  rcvd: 135
+

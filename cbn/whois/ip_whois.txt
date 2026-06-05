@@ -1,0 +1,44 @@
+% IP Client: 181.115.171.201
+ % Copyright (c) Nic.br - Use of this data is governed by the Use and
+% Privacy Policy at https://registro.br/upp . Distribution,
+% commercialization, reproduction, and use for advertising or similar
+% purposes are expressly prohibited.
+% 2026-06-05T01:29:12-03:00 - 181.115.171.201
+
+inetnum:     191.232.0.0/14
+aut-num:     AS8075
+abuse-c:     DIQUA12
+owner:       Microsoft 272945 Brasil LTDA
+ownerid:     04.712.500/0001-07
+responsible: Alessandra Del Debbio
+country:     BR
+owner-c:     DIQUA12
+tech-c:      DIQUA12
+inetrev:     191.232.160.0/19
+nserver:     ns3-201.azure-dns.org
+nsstat:      20260602 AA
+nslastaa:    20260602
+nserver:     ns4-201.azure-dns.info
+nsstat:      20260602 AA
+nslastaa:    20260602
+nserver:     ns1-201.azure-dns.com
+nsstat:      20260602 AA
+nslastaa:    20260602
+nserver:     ns2-201.azure-dns.net
+nsstat:      20260602 AA
+nslastaa:    20260602
+created:     20130911
+changed:     20210105
+
+nic-hdl-br:  DIQUA12
+person:      Divya Quamara
+e-mail:      hostmasterbilling@microsoft.com
+country:     BR
+created:     20170615
+changed:     20241210
+
+% Security and mail abuse issues should also be addressed to cert.br,
+% respectivelly to cert@cert.br and mail-abuse@cert.br
+%
+% whois.registro.br only accepts exact match queries for domains,
+% registrants, contacts, tickets, providers, IPs, and ASNs.

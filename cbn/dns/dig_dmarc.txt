@@ -1,0 +1,20 @@
+
+; <<>> DiG 9.20.15-2-Debian <<>> TXT _dmarc.cbn.com.bo
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 17662
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; MBZ: 0x0005, udp: 512
+;; QUESTION SECTION:
+;_dmarc.cbn.com.bo.		IN	TXT
+
+;; ANSWER SECTION:
+_dmarc.cbn.com.bo.	5	IN	TXT	"v=DMARC1; p=quarantine; rua=mailto:87j45zc9z7@rua.powerdmarc.com; ruf=mailto:87j45zc9z7@ruf.powerdmarc.com; pct=100; fo=1"
+
+;; Query time: 87 msec
+;; SERVER: 192.168.243.2#53(192.168.243.2) (UDP)
+;; WHEN: Fri Jun 05 01:01:58 EDT 2026
+;; MSG SIZE  rcvd: 180
+

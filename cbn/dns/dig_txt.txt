@@ -1,0 +1,23 @@
+
+; <<>> DiG 9.20.15-2-Debian <<>> TXT cbn.com.bo
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 18466
+;; flags: qr rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;cbn.com.bo.			IN	TXT
+
+;; ANSWER SECTION:
+cbn.com.bo.		5	IN	TXT	"v=spf1 mx include:eu._netblocks.mimecast.com include:spf.mandrillapp.com  ip4:191.234.201.196 -all"
+cbn.com.bo.		5	IN	TXT	"MS=ms86892483"
+cbn.com.bo.		5	IN	TXT	"bnpiq8a4sl5qk3ddlq4ugu44rd"
+cbn.com.bo.		5	IN	TXT	"workplace-domain-verification=UZpith1BfEEBXYWTmaj4v2iDjMx1xI"
+cbn.com.bo.		5	IN	TXT	"_globalsign-domain-verification=5dCX1-Dn2dPCAS3NO6tBebIBQwjoglmvHAlO4NvxzX"
+cbn.com.bo.		5	IN	TXT	"_globalsign-domain-verification=__wY0pk0xLH9A_z58p_e3YGuQzACnxIP7oSyTUew03"
+
+;; Query time: 91 msec
+;; SERVER: 192.168.243.2#53(192.168.243.2) (UDP)
+;; WHEN: Fri Jun 05 00:25:55 EDT 2026
+;; MSG SIZE  rcvd: 451
+

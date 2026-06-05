@@ -1,0 +1,8 @@
+inetnum:     200.87.128.0/17
+aut-num:     AS6568
+owner:       EMPRESA NACIONAL DE TELECOMUNICACIONES SOCIEDAD ANONIMA
+ownerid:     BO-ESEN-LACNIC
+country:     BO
+owner-c:     MIL
+country:     BO
+% Types of queries are: POCs, ownerid, CIDR blocks, IP

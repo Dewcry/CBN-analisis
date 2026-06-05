@@ -1,0 +1,33 @@
+
+; <<>> DiG 9.20.15-2-Debian <<>> NS cbn.com.bo
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 28341
+;; flags: qr rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 0, ADDITIONAL: 9
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; MBZ: 0x0005, udp: 512
+;; QUESTION SECTION:
+;cbn.com.bo.			IN	NS
+
+;; ANSWER SECTION:
+cbn.com.bo.		5	IN	NS	ns2-07.azure-dns.net.
+cbn.com.bo.		5	IN	NS	ns3-07.azure-dns.org.
+cbn.com.bo.		5	IN	NS	ns4-07.azure-dns.info.
+cbn.com.bo.		5	IN	NS	ns1-07.azure-dns.com.
+
+;; ADDITIONAL SECTION:
+ns1-07.azure-dns.com.	5	IN	A	13.107.236.7
+ns1-07.azure-dns.com.	5	IN	AAAA	2603:1061:0:700::7
+ns2-07.azure-dns.net.	5	IN	A	150.171.21.7
+ns2-07.azure-dns.net.	5	IN	AAAA	2620:1ec:8ec:700::7
+ns3-07.azure-dns.org.	5	IN	A	204.14.183.7
+ns3-07.azure-dns.org.	5	IN	AAAA	2a01:111:4000:700::7
+ns4-07.azure-dns.info.	5	IN	A	208.84.5.7
+ns4-07.azure-dns.info.	5	IN	AAAA	2620:1ec:bda:700::7
+
+;; Query time: 83 msec
+;; SERVER: 192.168.243.2#53(192.168.243.2) (UDP)
+;; WHEN: Fri Jun 05 00:25:55 EDT 2026
+;; MSG SIZE  rcvd: 352
+

@@ -1,0 +1,62 @@
+;; communications error to 192.168.243.2#53: end of file
+
+; <<>> DiG 9.20.15-2-Debian <<>> cbn.com.bo ANY
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 50106
+;; flags: qr rd ra; QUERY: 1, ANSWER: 20, AUTHORITY: 0, ADDITIONAL: 21
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;cbn.com.bo.			IN	ANY
+
+;; ANSWER SECTION:
+cbn.com.bo.		3395	IN	TXT	"v=spf1 mx include:eu._netblocks.mimecast.com include:spf.mandrillapp.com  ip4:191.234.201.196 -all"
+cbn.com.bo.		3395	IN	TXT	"MS=ms86892483"
+cbn.com.bo.		3395	IN	TXT	"bnpiq8a4sl5qk3ddlq4ugu44rd"
+cbn.com.bo.		3395	IN	TXT	"workplace-domain-verification=UZpith1BfEEBXYWTmaj4v2iDjMx1xI"
+cbn.com.bo.		3395	IN	TXT	"_globalsign-domain-verification=5dCX1-Dn2dPCAS3NO6tBebIBQwjoglmvHAlO4NvxzX"
+cbn.com.bo.		3395	IN	TXT	"_globalsign-domain-verification=__wY0pk0xLH9A_z58p_e3YGuQzACnxIP7oSyTUew03"
+cbn.com.bo.		3395	IN	TXT	"globalsign-domain-verification=b6675b87cacaff81d01c598cd5741c74"
+cbn.com.bo.		3395	IN	TXT	"globalsign-domain-verification=563257426CB30D7F3FE1CFFA75F8B2EB"
+cbn.com.bo.		3395	IN	TXT	"mixpanel-domain-verify=f2024cbc-a8af-4e8a-af51-f2772578a1d5"
+cbn.com.bo.		3395	IN	TXT	"globalsign-domain-verification=9D9CB143D878A6063F485142476E56F9"
+cbn.com.bo.		3395	IN	TXT	"atlassian-domain-verification=ZzPgFc2pTuPyPLEag75YthC66/RFN5k2Q4xS/5ESshKGRC3IvC/ooCXUCoJoult1"
+cbn.com.bo.		3395	IN	TXT	"openai-domain-verification=dv-31CWEbO3stwl0bOUHvLCTD1R"
+cbn.com.bo.		3395	IN	TXT	"_globalsign-domain-verification=DHHQ5zxJeAGroFPNQb9-FLPsD1Roq7Z7xPg2QNlRa3"
+cbn.com.bo.		3395	IN	TXT	"wacbncorp-prd.azurewebsites.net"
+cbn.com.bo.		3395	IN	NS	ns4-07.azure-dns.info.
+cbn.com.bo.		3395	IN	NS	ns1-07.azure-dns.com.
+cbn.com.bo.		3395	IN	NS	ns2-07.azure-dns.net.
+cbn.com.bo.		3395	IN	NS	ns3-07.azure-dns.org.
+cbn.com.bo.		3395	IN	MX	10 eu-smtp-inbound-1.mimecast.com.
+cbn.com.bo.		3395	IN	MX	10 eu-smtp-inbound-2.mimecast.com.
+
+;; ADDITIONAL SECTION:
+ns1-07.azure-dns.com.	2629	IN	A	13.107.236.7
+ns1-07.azure-dns.com.	484	IN	AAAA	2603:1061:0:700::7
+ns2-07.azure-dns.net.	949	IN	A	150.171.21.7
+ns2-07.azure-dns.net.	745	IN	AAAA	2620:1ec:8ec:700::7
+ns3-07.azure-dns.org.	1943	IN	A	204.14.183.7
+ns3-07.azure-dns.org.	3384	IN	AAAA	2a01:111:4000:700::7
+ns4-07.azure-dns.info.	315	IN	A	208.84.5.7
+ns4-07.azure-dns.info.	1009	IN	AAAA	2620:1ec:bda:700::7
+eu-smtp-inbound-1.mimecast.com.	128 IN	A	195.130.217.241
+eu-smtp-inbound-1.mimecast.com.	128 IN	A	195.130.217.201
+eu-smtp-inbound-1.mimecast.com.	128 IN	A	91.220.42.201
+eu-smtp-inbound-1.mimecast.com.	128 IN	A	195.130.217.211
+eu-smtp-inbound-1.mimecast.com.	128 IN	A	91.220.42.211
+eu-smtp-inbound-1.mimecast.com.	128 IN	A	91.220.42.241
+eu-smtp-inbound-2.mimecast.com.	95 IN	A	195.130.217.201
+eu-smtp-inbound-2.mimecast.com.	95 IN	A	195.130.217.211
+eu-smtp-inbound-2.mimecast.com.	95 IN	A	195.130.217.241
+eu-smtp-inbound-2.mimecast.com.	95 IN	A	91.220.42.241
+eu-smtp-inbound-2.mimecast.com.	95 IN	A	91.220.42.201
+eu-smtp-inbound-2.mimecast.com.	95 IN	A	91.220.42.211
+
+;; Query time: 20 msec
+;; SERVER: 192.168.243.2#53(192.168.243.2) (TCP)
+;; WHEN: Fri Jun 05 00:29:20 EDT 2026
+;; MSG SIZE  rcvd: 1649
+
