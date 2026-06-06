@@ -1,0 +1,298 @@
+GET https://www.cbn.bo/ HTTP/1.1
+host: www.cbn.bo
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: none
+Sec-Fetch-User: ?1
+Priority: u=0, i
+
+HTTP/1.1 200 OK
+Date: Sat, 06 Jun 2026 01:15:49 GMT
+Referrer-Policy: strict-origin-when-cross-origin
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Vary: Accept-Encoding
+X-XSS-Protection: 1; mode=block
+Content-Type: text/html; charset=UTF-8
+Set-Cookie: PHPSESSID=454fd52f82a510107c010dbdd73ef66e; path=/
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Set-Cookie: visid_incap_2641626=emAKKQhgR9iqivmMbjMfiMR0I2oAAAAAQUIPAAAAAADgnMbo/GpZTBj5pc/QHpTG; expires=Sat, 05 Jun 2027 06:55:42 GMT; HttpOnly; path=/; Domain=.cbn.bo; Secure; SameSite=None
+Set-Cookie: nlbi_2641626=3R2IEVrOZAQjdvB/M6p56QAAAACMGP4iLP7CNO2QE90ZG9qY; HttpOnly; path=/; Domain=.cbn.bo; Secure; SameSite=None
+Set-Cookie: incap_ses_1733_2641626=umDxNvCRGSwPQ7jl4doMGMR0I2oAAAAADDPuGOsA5Sylc2/9AU51zQ==; path=/; Domain=.cbn.bo; Secure; SameSite=None
+X-CDN: Imperva
+X-Frame-Options: SameOrigin
+Content-Security-Policy: upgrade-insecure-requests; frame-ancestors 'self'
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+X-Iinfo: 16-129257021-129257042 NNNN CT(129 130 0) RT(1780708549107 142) q(0 1 2 0) r(3 4) U12
+content-length: 13235
+
+<!DOCTYPE html>
+<html lang="es">
+
+<head><script src="/oome-it-not-settlemembecame-is-Life-to-this-it-v" async nonce="35b0db0d54162c86a3576cb3fdaadf0f0ca9d4b75d1aad9c2871a7162649dc9b"></script>
+  <meta charset="utf-8">
+
+    <script
+  nonce="35b0db0d54162c86a3576cb3fdaadf0f0ca9d4b75d1aad9c2871a7162649dc9b"
+  data-gtm-nonce="35b0db0d54162c86a3576cb3fdaadf0f0ca9d4b75d1aad9c2871a7162649dc9b"
+>
+  (function(w,d,s,l,i){
+    const gtmNonce = d.querySelector('[data-gtm-nonce]').dataset.gtmNonce;
+    w[l]=w[l]||[];
+    w[l].push({ 'nonce': gtmNonce 
+      
+    });
+    w[l].push({
+      'gtm.start': new Date().getTime(),event:'gtm.js'
+    });
+    const f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';
+    j.async=true;
+    j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;
+    j.setAttribute('nonce', gtmNonce);
+    f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-5DNTSBR');
+</script>
+
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+
+  <title>Inicio | Cervecería Boliviana Nacional S.A. </title>
+  <link rel="icon" type="image/x-icon" href="/lib/favicon.ico">
+  <meta name="language" content="es" />
+  <meta name="robots" content="all" />
+  <meta name="author" content="Inicio | Cervecería Boliviana Nacional S.A. " />
+  <meta name="reply-to" content="info@logoscomunicaciones.com" />
+  <meta name="category" content="General" />
+  <meta name="rating" content="General" />
+  <meta name="keywords" content="Cervecería Boliviana Nacional S.A. " />
+  <meta name="description" content="Cervecería Boliviana Nacional S.A. " />
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Inicio | Cervecería Boliviana Nacional S.A. ">
+<meta name="twitter:description" content="">
+<meta name="twitter:image" content="">
+<meta property="og:title" content="Inicio | Cervecería Boliviana Nacional S.A. " />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://www.cbn.bo/" />
+<meta property="og:image" content="" />
+<meta property="article:author" content="https://www.facebook.com/cerveceriaboliviananacional">
+<meta name="author" content="CBN" />
+<meta property="og:image:type" content="image/jpeg" />
+<meta property="og:image:width" content="400" />
+<meta property="og:image:height" content="300" />
+<meta property="og:site_name" content="https://www.facebook.com/cerveceriaboliviananacional" />
+<meta property="og:description" content="" name="description" />
+
+  <link rel="shortcut icon" href="https://www.cbn.bo/lib/favicon.ico?v=0.1" />
+
+  <script id="addressJSON" type="application/json"></script>
+  <script id="userusad" type="application/json"></script>
+  
+<meta name="facebook-domain-verification" content="cxo5zmwnhungw7zer932oo8f68zfdb" />
+  <link href="https://www.cbn.bo/css/cbn.css?v=0.0.45" rel="stylesheet" type="text/css" />
+  <link href="https://www.cbn.bo/css/swiper-bundle.min.css?v=0.0.45" rel="stylesheet" type="text/css" />
+
+  
+  
+  <script>
+
+    window.domainWeb = "https://www.cbn.bo";
+
+  </script>
+</head>
+
+<body class="">
+
+    
+
+ <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5DNTSBR"
+      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+   <section class="contentInicio hide">
+            <section class="cntInDsc">
+                <span class="logo">CBN</span>
+                <p>Para ingresar a este sitio web, debes ser mayor de edad.</p>
+                <p>¿TIENES 18 AÑOS O MÁS?</p>
+                <span class="clear"></span>
+    
+                <div class="bxLnk">
+                    <a href="#">sí</a>
+                    <a href="#">no</a>
+                </div>
+            </section>
+            <section class="cntInImg"></section>
+        </section>
+
+
+
+  
+  <div class="loading-st" id="loads" style="display: block;"></div>
+  
+
+  <div id="domain" style="display: none;">https://www.cbn.bo</div>
+    
+
+
+
+
+  <div class="wrapper">
+
+
+
+    
+<header>
+    <div class="cntHeader">
+        <a href="https://www.cbn.bo" class="logo">CBN</a>
+        <span class="menuMb">menú</span>
+        <span class="menuMbCls cls01">close</span>
+        <nav>
+            <ul>
+                <li class="act"><a href="https://www.cbn.bo/">Inicio</a></li>
+                <li class=""><a href="https://www.cbn.bo/nosotros">Nosotros</a></li>
+                <li class=""><a href="https://www.cbn.bo/marcas">Marcas</a></li>
+                <li class=""><a href="https://www.cbn.bo/sostenibilidad">Sostenibilidad</a></li>
+                <li class=""><a href="https://www.cbn.bo/trabajaencbn/">Trabaja en CBN</a></li>
+                <li class=""><a href="https://www.cbn.bo/proveedores">Proveedores</a></li>
+                <li class=""><a href="https://www.cbn.bo/accionistas/">Accionistas</a></li>
+                <li class=""><a href="https://www.cbn.bo/bees">Bees</a></li>
+                <li class=""><a href="https://www.cbn.bo/noticias">Noticias</a></li>
+                <li class=""><a href="https://www.cbn.bo/contactanos">Contáctanos</a></li>
+            </ul>
+            <ul class="liRS">
+                <li class="liInstagram"><a href="https://www.instagram.com/cerveceriaboliviananacional"
+                        target="_blank">Instagram</a></li>
+                <li class="liFacebook"><a href="https://www.facebook.com/cerveceriaboliviananacional"
+                        target="_blank">Facebook</a></li>
+                <li class="liLinkedIn"><a href="https://www.linkedin.com/company/cervecer%C3%ADa-boliviana-nacional/"
+                        target="_blank">Linkedin</a></li>
+                <li class="liX"><a href="https://x.com/cbn_bolivia" target="_blank">X</a></li>
+                <li class="liYoutube"><a href="https://youtube.com/@cbnbo" target="_blank">Youtube</a></li>
+                <li class="liTiktok"><a href="https://www.tiktok.com/@cbn.bolivia" target="_blank">Tiktok</a></li>
+            </ul>
+        </nav>
+    </div>
+</header>
+            <section class="contentIni">
+                <video class="ItmDsk" autoplay muted playsinline loop><source src="video/cbn-01-2026-05-28.mp4" type="video/mp4"></video>
+                <video class="ItmMb" autoplay muted playsinline loop><source src="video/cbn-01-mob.mp4" type="video/mp4"></video>
+            </section>
+
+            <section class="contentMarcas optB">
+                <div class="cntMarcas">
+                    <div class="bxCnt">
+                        <a href="/marcas"><h2 class="text">Nuestras Marcas</h2></a>
+                        <p>En CBN contamos con un amplio portafolio de bebidas alcohólicas y no alcohólicas. Algunas de nuestras marcas más reconocidas en cervezas son: Paceña, Huari, Golden, Corona y Budweiser. Respecto a bebidas no alcohólicas, tenemos a: Pepsi, 7Up, Agua SOMOS, Gatorade y muchas más.</p>
+                        <a href="/marcas" class="btnA">Leer más</a>
+                    </div>
+                    <div class="bxImgB"><img src="/img/cbn-marcas.jpg" width="850" height="566" alt="TEXTO REFERENCIAL"></div>
+                </div>
+            </section>
+
+            <section class="contentNosotros opB">
+                <div class="cntNosotros">
+                    <div class="bxCnt">
+                        <a href="/nosotros"><h2 class="text">Nosotros</h2></a>
+                        <p>Cumplimos 140 años de vida y trabajamos para dejar un legado del cual los bolivianos nos sintamos orgullosos todos los días.</p>
+                        <a href="/nosotros" class="btnA">Leer más</a>
+                    </div>
+                    <div class="bxImg"><div class="modest-vid-embed modest-vid-embed--auto">
+                        <div class="modest-vid-embed__wrapper">
+                            <iframe class="modest-vid-embed__item" src="https://www.youtube.com/embed/vJwDSq3MM3w?mute=1&autoplay=1&modestbranding=1&loop=1&rel=0&amp;controls=0&amp;showinfo=0&playlist=vJwDSq3MM3w" frameborder="0" allowfullscreen></iframe>
+                        </div>
+                    </div></div>
+                </div>
+            </section>
+
+            <section class="contentSostenibilidad opB">
+                <div class="cntSostenibilidad">
+                    <div class="bxCnt">
+                        <a href="/sostenibilidad"><h2 class="text">Sostenibilidad</h2></a>
+                        <p>Nuestro crecimiento está directamente ligado al bienestar de nuestras comunidades y al cuidado del medio ambiente. Por ello, implementamos iniciativas que promueven prácticas sostenibles y que generan un impacto positivo y duradero. Desde la reducción de nuestra huella de carbono hasta la gestión responsable del agua y la promoción de una economía circular.</p>
+                        <a href="/sostenibilidad" class="btnA">Leer más</a>
+                    </div>
+                </div>
+                <ul class="liChar">
+                    <li><img src="/lib/igualdad-genero.jpg" width="130" height="130" alt="TEXTO REFERENCIAL"></li>
+                    <li><img src="/lib/agua-limpia.jpg" width="130" height="130" alt="TEXTO REFERENCIAL"></li>
+                    <li><img src="/lib/energia-asequible.jpg" width="130" height="130" alt="TEXTO REFERENCIAL"></li>
+                    <li><img src="/lib/trabajo-decente.jpg" width="130" height="130" alt="TEXTO REFERENCIAL"></li>
+                    <li><img src="/lib/industria-innovacion.jpg" width="130" height="130" alt="TEXTO REFERENCIAL"></li>
+                    <li><img src="/lib/reduccion.jpg" width="130" height="130" alt="TEXTO REFERENCIAL"></li>
+                    <li><img src="/lib/produccion.jpg" width="130" height="130" alt="TEXTO REFERENCIAL"></li>
+                    <li><img src="/lib/accion.jpg" width="130" height="130" alt="TEXTO REFERENCIAL"></li>
+                    <li><img src="/lib/vida.jpg" width="130" height="130" alt="TEXTO REFERENCIAL"></li>
+                    <li><img src="/lib/paz-justicia.jpg" width="130" height="130" alt="TEXTO REFERENCIAL"></li>
+                    <li><img src="/lib/alianzas.jpg" width="130" height="130" alt="TEXTO REFERENCIAL"></li>
+                </ul>
+                <div class="bxImgC"><img src="/lib/sostenibilidad-circulo.svg" width="610" height="610" alt="TEXTO REFERENCIAL"></div>
+            </section>
+
+            <section class="contentTrabaja opD bg02">
+                <div class="cntTrabaja">
+                    <div class="bxCnt">
+                        <a href="/trabajaencbn"><h2 class="text">Trabaja en CBN</h2></a>
+                        <p>Somos el lugar ideal para la gente apasionada, que piensa en grande y que quiere llegar cada vez más lejos.</p>
+                        <p>Nuestra gente es embajadora de nuestra cultura y nuestro más valioso recurso. ¡Nuestra gente hace la diferencia!</p>
+                        <a href="/trabajaencbn" class="btnA">Leer más</a>
+                    </div>
+                    <div class="bxImg"><img src="/lib/bg-trabaja_02.jpg" width="610" height="610" alt="TEXTO REFERENCIAL"></div>
+                </div>
+            </section>         
+
+<footer>
+    <div class="cntFooter">
+        <ul>
+            <li>© 2025 CBN | Todos los derechos reservados</li>
+            <li><a href="https://www.cbn.bo/terminos-y-condiciones">Términos y condiciones</a></li>
+            <li><a href="https://www.cbn.bo/politica-de-privacidad">Política de privacidad</a></li>
+            <li><a href="https://www.cbn.bo/reglas-de-contenidos">Reglas de contenidos</a></li>
+        </ul>
+        <p>DISFRUTA RESPONSABLEMENTE - NO COMPARTAS ESTE CONTENIDO CON MENORES DE EDAD</p>
+    </div>
+    <a href="https://www.logoscomunicaciones.com/" target="_blank" title="Desarrollado por Logos Comunicaciones"
+        class="byLogos">Desarrollado por Logos Comunicaciones</a>
+</footer>
+
+  </div>
+
+
+
+
+
+
+
+
+
+  <script language="javascript" type="text/javascript" src="https://www.cbn.bo/js/jquery.min.js?v=66940EFB-AA5B-63AD-24D7-2DC36C27E4C5?v=0.13"></script>
+  <script language="javascript" type="text/javascript" src="https://www.cbn.bo/js/gsap.min.js?v=C757217F-0645-418B-CEA4-C538BD202CEC?v=0.13"></script>
+  <script language="javascript" type="text/javascript" src="https://www.cbn.bo/js/split-type.min.js?v=90D78958-F878-0B0F-6F01-4709CCB3C3D6?v=0.13"></script>
+  <script language="javascript" type="text/javascript" src="https://www.cbn.bo/js/ScrollTrigger.min.js?v=BCD62617-18F8-A770-8E43-15DEDC06E958?v=0.13"></script>
+  <script language="javascript" type="text/javascript" src="https://www.cbn.bo/js/scripts.js?v=A5ABD35F-BCB4-DA95-782E-B63200C8FCF2?v=0.13"></script>
+  
+
+  <!-- JSONADDRESS -->
+
+  
+  <script language="javascript" type="text/javascript" src="https://www.cbn.bo/js/main.js?v=0.18"></script>
+
+  <style>
+    .grecaptcha-badge {
+      display: none !important;
+    }
+  </style>
+
+
+
+<script type="text/javascript" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=558624050" async nonce="35b0db0d54162c86a3576cb3fdaadf0f0ca9d4b75d1aad9c2871a7162649dc9b"></script></body>
+
+</html>

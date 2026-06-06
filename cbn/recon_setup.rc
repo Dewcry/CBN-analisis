@@ -1,0 +1,14 @@
+workspaces create cbn
+db insert domains -- cbn.com.bo
+db insert hosts -- www.cbn.com.bo 191.232.176.16
+db insert hosts -- sip.cbn.com.bo 212.41.133.107
+db insert hosts -- mutun.cbn.com.bo 200.87.194.130
+db insert hosts -- webqplus.cbn.com.bo 200.87.194.130
+db insert hosts -- cbnlpz.cbn.com.bo 167.252.151.120
+db insert hosts -- cbnscz.cbn.com.bo 167.252.151.121
+db insert hosts -- cbncbba.cbn.com.bo 167.252.151.122
+db insert hosts -- cbnoruro.cbn.com.bo 167.252.151.123
+modules load reporting/html
+options set FILENAME /home/kali/seg261/cbn/screenshots/recon_report.html
+run
+exit
